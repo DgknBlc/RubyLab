@@ -1,1 +1,3 @@
 # RubyLab
+
+Ruby üstüne denemeler.
